@@ -1,7 +1,7 @@
 nav:
   home: Trang chủ
   about: Giới thiệu
-  articles: Bài viết
+  # articles: Bài viết
   tag: Thẻ
   category: Thể loại
   projects: Dự án
@@ -14,7 +14,7 @@ index:
   find_me_on: Tìm tôi trên
   enum_comma: ','
   enum_and: and
-  articles: Bài viết
+  # articles: Bài viết
   projects: Dự án
   topics: Chủ đề
   most_recent: Gần đây nhất

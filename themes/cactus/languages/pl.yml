@@ -1,7 +1,7 @@
 nav:
   home: Strona główna
   about: O mnie
-  articles: Artykuły
+  # articles: Artykuły
   tag: Tagi
   category: Kategorie
   projects: Projekty
@@ -14,7 +14,7 @@ index:
   find_me_on: Znajdź mnie na
   enum_comma: ','
   enum_and: i
-  articles: Artykuły
+  # articles: Artykuły
   projects: Projekty
   topics: Tematy
   most_recent: Najnowsze

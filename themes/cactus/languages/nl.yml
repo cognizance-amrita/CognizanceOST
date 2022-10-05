@@ -1,7 +1,7 @@
 nav:
   home: Home
   about: Over mij
-  articles: Blog
+  # articles: Blog
   projects: Projecten
   search: Zoeken
 
@@ -12,7 +12,7 @@ index:
   find_me_on: Je vindt me op
   enum_comma: ','
   enum_and: en
-  articles: Blogposts
+  # articles: Blogposts
   projects: Projecten
 
 post:

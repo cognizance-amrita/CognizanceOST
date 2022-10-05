@@ -1,0 +1,6 @@
+---
+title: GENERAL RULES
+date: 2022-10-05 08:11:39
+tags:
+domain:
+---

@@ -1,7 +1,7 @@
 nav:
   home: Главная
   about: Обо мне
-  articles: Блог
+  # articles: Блог
   projects: Проекты
   search: Искать
 
@@ -12,7 +12,7 @@ index:
   find_me_on: 'Свяжитесь со мной:'
   enum_comma: ','
   enum_and: и
-  articles: Блог
+  # articles: Блог
   projects: Проекты
 
 post:

@@ -1,7 +1,7 @@
 nav:
   home: Inici
   about: Qui som 
-  articles: Articles
+  # articles: Articles
   projects: Projectes
   search: Buscar
 
@@ -12,7 +12,7 @@ index:
   find_me_on: Trobem a
   enum_comma: ','
   enum_and: i
-  articles: Articles
+  # articles: Articles
   projects: Projectes
 
 post:

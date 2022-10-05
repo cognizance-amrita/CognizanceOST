@@ -1,7 +1,7 @@
 nav:
   home: Accueil
   about: A propos
-  articles: Archives
+  # articles: Archives
   projects: Projets
   search: Rechercher
 
@@ -12,7 +12,7 @@ index:
   find_me_on: Retrouve moi sur
   enum_comma: ','
   enum_and: et
-  articles: Articles
+  # articles: Articles
   projects: Projets
 
 post:

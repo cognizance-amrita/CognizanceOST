@@ -1,7 +1,7 @@
 nav:
   home: Startseite
   about: Über diese Webseite
-  articles: Artikel
+  # articles: Artikel
   tag: Tag
   category: Kategorie
   projects: Projekte
@@ -14,7 +14,7 @@ index:
   find_me_on: Finde mich auf
   enum_comma: ','
   enum_and: und
-  articles: Artikel
+  # articles: Artikel
   projects: Projekte
   topics: Themen
   most_recent: Neueste
