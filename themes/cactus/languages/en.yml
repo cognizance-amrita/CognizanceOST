@@ -1,7 +1,7 @@
 nav:
   home: Home
   about: About
-  # articles: General Rules
+  articles: Open Source Tasks
   tag: Tag
   category: Category
   projects: Projects
@@ -18,7 +18,7 @@ index:
   find_me_on: Find Us On
   enum_comma: ','
   enum_and: and
-  # articles: General Rules
+  articles: Open Source Tasks
   projects: Projects
   topics: Topics
   most_recent: Most recent

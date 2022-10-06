@@ -15,10 +15,10 @@ direction: ltr
 # languages/*.yml
 nav:
    Home: /
-   AI: /AI/
-   CYS: /CYS/
-   OS: /OS/
-   CP: /CP/
+  #  AI: /AI/
+  #  CYS: /CYS/
+  #  OS: /OS/
+  #  CP: /CP/
   #  About: /about/
   #  Basics: /basics/ 
   #  Virtual Machines: /virtual-machines/ 
